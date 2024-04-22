@@ -76,3 +76,5 @@ Pipfile.lock
 
 # Poetry
 poetry.lock
+
+venv
